@@ -1,8 +1,8 @@
 # MTR Turkish Trains
 
-## Setup
+## Dependencies
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+This mod works with [Minecraft-Transit-Railway-Mod] (https://modrinth.com/mod/minecraft-transit-railway). Please see the [wiki-page] (https://wiki.minecrafttransitrailway.com/start) of Minecraft Transit Railway Mod for more information.
 
 ## License
 
