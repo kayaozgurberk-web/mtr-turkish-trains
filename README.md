@@ -6,4 +6,4 @@ For setup instructions, please see the [Fabric Documentation page](https://docs.
 
 ## License
 
-This template is available under the MIT license. Feel free to learn from it and incorporate it in your own projects.
+This repository is avaible under MIT license. Feel free to make small changes (like adding a new texture to trains). You can't make big changes (like adding a new train) before asking our developer team.
