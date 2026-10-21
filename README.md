@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-This mod works with [Minecraft-Transit-Railway-Mod] (https://modrinth.com/mod/minecraft-transit-railway). Please see the [wiki-page] (https://wiki.minecrafttransitrailway.com/start) of Minecraft Transit Railway Mod for more information.
+This mod works with [Minecraft-Transit-Railway-Mod](https://modrinth.com/mod/minecraft-transit-railway). Please see the [wiki-page](https://wiki.minecrafttransitrailway.com/start) of Minecraft Transit Railway Mod for more information.
 
 ## License
 
